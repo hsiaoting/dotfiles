@@ -1,12 +1,15 @@
 # 設定每個視窗的標題
 caption always "%{= wk} %{= KY} [%n]%t @ %H %{-} %= %{= KR} %l %{-} | %{= KG} %Y-%m-%d %{-} "
-
+# mute the starting message
+startup_message off
 # # 設定總是顯示 screen 的狀態列
 hardstatus alwayslastline " %-Lw%{= Bw}%n%f %t%{-}%+Lw %=| %0c:%s "
 
 # # default encode to utf8
 defencoding utf8
-#
-#
+
 # # 設定視窗回捲時可看到的行數
 defscrollback 2048
+
+# binding
+
