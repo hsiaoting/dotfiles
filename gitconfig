@@ -1,0 +1,10 @@
+[user]
+	name=HsiaoTing Wang
+	email=hsiaoting.wang@gmail.com
+[core]
+	editor=vim
+[alias]
+	st=status
+	ci=commit
+	co=checkout
+	lg=log --graph
