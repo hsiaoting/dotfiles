@@ -1,4 +1,10 @@
 dotfiles
 ========
 
-my dotfile collection
+Author: 
+Hsiao-Ting Wang
+
+Description:
+my dotfile collection 
+(including .bashrc, .screenrc, .vimrc )
+
