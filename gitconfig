@@ -8,4 +8,5 @@
 	ci=commit
 	co=checkout
 	lg=log --graph
-	sync="!git pull;!git push xinguard"
+	br=branch
+	sync=!git pull github && git push github 
