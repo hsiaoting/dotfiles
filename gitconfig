@@ -8,3 +8,4 @@
 	ci=commit
 	co=checkout
 	lg=log --graph
+	sync="!git pull;!git push xinguard"
