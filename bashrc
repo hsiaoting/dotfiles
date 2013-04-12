@@ -6,4 +6,4 @@
 alias ll='ls -alt'
 
 vi='vim'
-
+HISTSIZE=10000
