@@ -1,10 +1,15 @@
-dotfiles
+HsiaoTing's dotfiles
 ========
 
-Author: 
+## Author  
 Hsiao-Ting Wang
 
-Description:
+## Description:
 my dotfile collection 
 (including .bashrc, .screenrc, .vimrc )
 
+## HOWTO
+# How to install?
+make init  
+# How to sync config. files?
+make sync
